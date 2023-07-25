@@ -1,4 +1,4 @@
-| **Maccy **            | **Shortcut**            |
+| **Maccy**            | **Shortcut**            |
 |-----------------------|-------------------------|
 | Shift + CMD + C       | Pop out maccy           |
 | CMD + n               | Select n item           |
