@@ -1,7 +1,10 @@
-| Task                                                     | Shortcuts                                           |
+| Shortcuts                                                | Description                                         |
 |----------------------------------------------------------|-----------------------------------------------------|
-| multiple cursor up                                       | CMD + option + up                                   |
-| multiple cursor down                                     | CMD + option + down                                 |
+| CMD + option + up                                        | multiple cursor up                                  |
+| CMD + option + down                                      | multiple cursor down                                |
+|                                                          |                                                     |
+| CMD + shift + L                                          | select all matches                                  |
+|                                                          |                                                     |
 |                                                          |                                                     |
 |                                                          |                                                     |
 |                                                          |                                                     |
