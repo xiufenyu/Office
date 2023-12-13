@@ -42,3 +42,6 @@
 | Zoom In terminal Zoom out terminal                                         | CMD + + CMD + -                                              |
 | Open Finder                                                                | Shift + CMD + H                                              |
 |                                                                            |                                                              |
+| Clear Terminal                                                             | CMD + K                                                      |
+|                                                                            |                                                              |
+|                                                                            |                                                              |
