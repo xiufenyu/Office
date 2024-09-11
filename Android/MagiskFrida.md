@@ -5,7 +5,7 @@
 
 
 3. Enable Zygisk   \
-   Home -> Setting -> Magisk -> Zygisk -> Click Enable   \
+   Home -> Setting -> Magisk -> Zygisk -> Click Enable
 
 5. Install movecert module in Magisk \
    upload movecert.zip to /sdcard/Download/movecert.zip
@@ -15,5 +15,9 @@
 
 
 
-6. Install MagiskFrida Module  \
+6. Install MagiskFrida Module  \ 
+   Download MagiskFrida from https://github.com/ViRb3/magisk-frida/releases            \
+   $ adb push  MagiskFrida-16.5.1-1.zip /sdcard/Download/                              \
+   (Android) $ magisk --install-module /sdcard/Download/MagiskFrida-16.5.1-1.zip       \
+   $ adb reboot   
    
