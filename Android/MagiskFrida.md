@@ -39,5 +39,6 @@
 
 2. Home -> Setting -> Magisk -> Enable Zygisk: Run parts of Magisk in zygote daemon   \
 
-3. Home -> Setting Magisk -> Configure Denylist \ 
+3. Home -> Setting Magisk -> Configure Denylist \
+   
 Zygisk’s DenyList allows you to hide apps from detecting Magisk and root, prevent showing incompatile device or fake bugs such as crashes, stuck, connection error. DenyList is basically MagiskHide, but doesn’t 100% hide. Some apps may still detecting it.
