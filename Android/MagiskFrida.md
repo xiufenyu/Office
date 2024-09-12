@@ -42,3 +42,6 @@
 3. Home -> Setting Magisk -> Configure Denylist \
    
 Zygisk’s DenyList allows you to hide apps from detecting Magisk and root, prevent showing incompatile device or fake bugs such as crashes, stuck, connection error. DenyList is basically MagiskHide, but doesn’t 100% hide. Some apps may still detecting it.
+
+
+Ref: https://www.andnixsh.com/2023/06/how-to-hide-magisk-from-root-detections.html
