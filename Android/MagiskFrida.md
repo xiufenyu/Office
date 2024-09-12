@@ -1,3 +1,4 @@
+# Install MagiskFrida
 1. Install Magisk App to the Android phone
 
 2. Enable root access in adb shell   \
@@ -32,3 +33,11 @@
    Check if frida is working               \
    (ubuntu)$ frida-ps -U 
    
+# Hide Magisk from other apps
+
+1. Home -> Setting -> App -> Hide the Magisk App   \ 
+
+2. Home -> Setting -> Magisk -> Enable Zygisk: Run parts of Magisk in zygote daemon   \
+
+3. Home -> Setting Magisk -> Configure Denylist \ 
+Zygisk’s DenyList allows you to hide apps from detecting Magisk and root, prevent showing incompatile device or fake bugs such as crashes, stuck, connection error. DenyList is basically MagiskHide, but doesn’t 100% hide. Some apps may still detecting it.
